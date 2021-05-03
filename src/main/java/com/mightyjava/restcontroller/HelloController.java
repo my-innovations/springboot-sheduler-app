@@ -1,4 +1,4 @@
-package com.mightyjava.controller;
+package com.mightyjava.restcontroller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
